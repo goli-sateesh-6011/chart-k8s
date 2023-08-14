@@ -1,0 +1,2 @@
+Helm repo index --url git@github.com:goli-sateesh-6011/chart-k8s.git --merge index.yaml .
+
